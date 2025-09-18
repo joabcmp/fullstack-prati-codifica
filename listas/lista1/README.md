@@ -1,7 +1,6 @@
 # Lista 01 - Estruturas Básicas em JavaScript
 
-Este repositório contém exercícios do curso **Fullstack +PraTi (Codifica)**.  
-O objetivo desta lista é praticar **estruturas básicas de controle de fluxo e repetição** utilizando **JavaScript**.
+Este diretório contém os exercícios da **Lista 01** do curso *Fullstack +PraTi (Codifica)*, cujo objetivo é praticar **estruturas básicas de controle de fluxo e repetição em JavaScript**.
 
 ---
 
@@ -18,16 +17,21 @@ npm install --save-dev jest
 ```bash
 git clone https://github.com/joabcmp/fullstack-prati-codifica.git
 ```
-### exercicio individual
+### Executar exercício individual
 ```bash
 node codigo/exercicio01.js
 ```
 
 ### Rodar os testes:
+
+Rodar todos os testes
 ```bash
-//geral
 npm test
-//individual
+```
+
+Rodar teste específico
+```bash
+
 npx jest testes/exercicio01.test.js
 ```
 
