@@ -6,7 +6,6 @@ O objetivo é registrar minha evolução como desenvolvedor Fullstack, passando 
 ---
 
 ## 📂 Estrutura do Repositório
-## 📂 Estrutura do Repositório
 
 ```bash
 fullstack-prati-codifica/
