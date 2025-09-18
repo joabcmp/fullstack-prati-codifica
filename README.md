@@ -24,6 +24,7 @@ fullstack-prati-codifica/
 ├── .gitignore # Arquivos ignorados pelo Git
 └── README.md # Este documento
 
+
 ---
 
 ## ✅ Progresso das Listas
