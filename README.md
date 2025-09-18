@@ -24,7 +24,7 @@ fullstack-prati-codifica/
 │
 ├── package.json            # Configurações e dependências do Node.js
 └── README.md               # Este documento
-
+```
 ---
 
 ## ✅ Progresso das Listas
@@ -43,6 +43,8 @@ Todos os exercícios são acompanhados de **testes unitários** utilizando [Jest
 Isso garante que as soluções funcionem corretamente, além de treinar boas práticas de desenvolvimento.
 
 ### Rodando os testes:
+
 ```bash
 npm install
 npm test
+```
