@@ -41,10 +41,3 @@ fullstack-prati-codifica/
 
 Todos os exercícios são acompanhados de **testes unitários** utilizando [Jest](https://jestjs.io/).  
 Isso garante que as soluções funcionem corretamente, além de treinar boas práticas de desenvolvimento.
-
-### Rodando os testes:
-
-```bash
-npm install
-npm test
-```
