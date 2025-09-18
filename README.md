@@ -6,24 +6,26 @@ O objetivo é registrar minha evolução como desenvolvedor Fullstack, passando 
 ---
 
 ## 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
+
+```bash
 fullstack-prati-codifica/
 │
-├── listas/ # Listas de exercícios
-│ ├── lista01/ # Estruturas básicas
-│ │ ├── codigo/ # Soluções dos exercícios em JS
-│ │ ├── testes/ # Testes unitários (Jest)
-│ │ └── README.md # Descrição da lista
-│ ├── lista02/ # (em breve)
-│ └── ...
+├── listas/                 # Listas de exercícios
+│   ├── lista01/            # Estruturas básicas
+│   │   ├── codigo/         # Soluções dos exercícios em JS
+│   │   ├── testes/         # Testes unitários (Jest)
+│   │   └── README.md       # Descrição da lista
+│   ├── lista02/            # (em breve)
+│   └── ...
 │
-├── projetos/ # Projetos maiores do curso
-│ ├── projeto01/ # (em breve)
-│ └── ...
+├── projetos/               # Projetos maiores do curso
+│   ├── projeto01/          # (em breve)
+│   └── ...
 │
-├── package.json # Configurações e dependências do Node.js
-├── .gitignore # Arquivos ignorados pelo Git
-└── README.md # Este documento
-
+├── package.json            # Configurações e dependências do Node.js
+├── .gitignore              # Arquivos ignorados pelo Git
+└── README.md               # Este documento
 
 ---
 
