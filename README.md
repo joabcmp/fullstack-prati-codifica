@@ -24,7 +24,6 @@ fullstack-prati-codifica/
 │   └── ...
 │
 ├── package.json            # Configurações e dependências do Node.js
-├── .gitignore              # Arquivos ignorados pelo Git
 └── README.md               # Este documento
 
 ---
