@@ -1,4 +1,4 @@
-Estruturas com Vetores e Matrizes em JavaScript
+# Lista 02 - Estruturas com Vetores e Matrizes em JavaScript
 
 Este diretório faz parte do repositório **fullstack-prati-codifica** e contém os exercícios da **Lista 2** do curso **Fullstack +PraTi (Codifica)**.  
 O objetivo desta lista é praticar a manipulação de **vetores e matrizes**, reforçando conceitos de estruturas de dados e lógica em JavaScript.
@@ -73,3 +73,4 @@ Para otimizar o tempo e manter o foco no aprendizado prático, foi feita uma **s
 - **Q46**: Total de vendas por vendedor (array de objetos).  
 
 ---
+
